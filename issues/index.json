@@ -1,0 +1,36 @@
+{
+  "is": "issues",
+  "title": "Issues",
+  "baseURL": "https://status.fedcloud.fr", 
+  "description": "",
+  "pages": [
+      {
+        "is": "issue",
+        "title": "IPHC Maintenance",
+        "createdAt": "2021-07-27 16:00:00 +0000 UTC",
+        "lastMod": "2021-06-12 16:16:54 +0200 CEST",
+        "permalink": "https://status.fedcloud.fr/issues/2021-07-27-scigne-maintenance/",
+        "severity": "notice",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "2021-07-29 18:00:00",
+        "affected": ["SCIGNE - Cloud Compute", "SCIGNE - Container as a Service"],
+        "filename": "2021-07-27-SCIGNE-maintenance.md"
+      }
+    ,
+      {
+        "is": "issue",
+        "title": "CC-IN2P3 Maintenance",
+        "createdAt": "2021-06-15 08:00:00 +0000 UTC",
+        "lastMod": "2021-06-12 16:16:54 +0200 CEST",
+        "permalink": "https://status.fedcloud.fr/issues/2021-06-15-cc-in2p3-maintenance/",
+        "severity": "notice",
+        "resolved": false,
+        "informational": false,
+        "resolvedAt": "2021-06-10 18:00:00",
+        "affected": ["CC-IN2P3 - Cloud Compute"],
+        "filename": "2021-06-15-CC-IN2P3-maintenance.md"
+      }
+    
+  ], 
+}
