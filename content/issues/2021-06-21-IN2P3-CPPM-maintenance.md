@@ -10,5 +10,3 @@ affected:
 section: issue
 ---
 
-*Description*: The IN2P3-CPPM  share service will be down from the 21th of July until the 28 of June.
-
