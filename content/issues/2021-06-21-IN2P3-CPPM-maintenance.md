@@ -10,3 +10,4 @@ affected:
 section: issue
 ---
 
+*Description*: The IN2P3-CPPM  share service will be down the 21th June between 10:00 AM to 06:00 PM
