@@ -1,11 +1,10 @@
 ---
 title: IPHC Maintenance
-date: 2021-06-15 10:00:00
+date: 2021-07-27 12:00:00
 resolved: false
-resolvedWhen: 2021-06-15 18:00:00
+resolvedWhen: 2021-07-29 18:00:00
 # Possible severity levels: down, disrupted, notice
-severity: ok
-informational: true
+severity: down
 affected:
   - SCIGNE - Cloud Compute
   - SCIGNE - Container as a Service
