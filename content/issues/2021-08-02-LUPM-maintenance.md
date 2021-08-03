@@ -1,5 +1,5 @@
 ---
-title: IPHC Maintenance
+title: LUPM Maintenance
 date: 2021-08-02 08:00:00
 resolved: false
 resolvedWhen: 2021-09-10 18:00:00
