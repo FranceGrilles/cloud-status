@@ -158,8 +158,14 @@ params:
     - name: IRIT
       description: Services managed by IRIT (Toulouse)
       closed: false
+    - name: LUPM
+      description: Services managed by LUPM (Montpellier)
+      closed: false
     - name: SCIGNE
       description: Services managed by SCIGNE (Strasbourg)
+      closed: false
+    - name: UCA
+      description: Services managed by UCA (Clermont-Ferrand)
       closed: false
     - name: UNIV-LILLE
       description: Services managed by UNIV-LILLE (Lille)
@@ -184,10 +190,14 @@ params:
       category: IJCLab
     - name: IRIT - Cloud Compute
       category: IRIT
+    - name: LUPM - Cloud Compute
+      category: LUPM
     - name: SCIGNE - Cloud Compute
       category: SCIGNE
     - name: SCIGNE - Container as a Service
       category: SCIGNE
+    - name: UCA - Cloud Compute
+      category: UCA
     - name: UNIV-LILLE - Cloud Compute
       category: UNIV-LILLE
 
