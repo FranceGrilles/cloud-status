@@ -40,7 +40,7 @@ for i in 1 .. 10 { do-something(i) }
 &lt;/code>&lt;/pre>
 &lt;p>As you probably guessed, indented 4 spaces. By the way, instead of
 indenting the block, you can use delimited blocks, if you like:&lt;/p>
-&lt;pre>&lt;code>define foobar() {
+&lt;pre tabindex="0">&lt;code>define foobar() {
 print &amp;quot;Welcome to flavor country!&amp;quot;;
 }
 &lt;/code>&lt;/pre>&lt;p>(which makes copying &amp;amp; pasting easier). You can optionally mark the
