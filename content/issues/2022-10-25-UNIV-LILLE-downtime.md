@@ -6,3 +6,4 @@ resolvedWhen: 2022-10-27 18:00:00
 # Possible severity levels: down, disrupted, notice
 severity: down
 informational: true
+---
